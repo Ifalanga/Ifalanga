@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Ifalanga Sinthumule 👋
 
 👨🏼‍🎓 Bsc degree in Computer Science and Informatics at The University of Johannesburg.
 
@@ -11,4 +11,4 @@ I'm fascinated by the simplicity and universality of 0's and 1's, and how they c
 relying on words that can lose meaning over time.
 
 
--->
+

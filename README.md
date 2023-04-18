@@ -6,9 +6,9 @@ relying on words that can lose meaning over time.
 
 👨🏼‍🎓 Bsc degree in Computer Science and Informatics student at The University of Johannesburg.
 
-👨‍💻 A Software Developer/Engineer in the process
+👨‍💻 A Software Developer/Engineer in the process, I am growing in this field one day at a time
 
-🌱 Machine Learning and Artificial Intelligence enthusiastic, I am growing in this field one day at a time.
+🌱 Machine Learning and Artificial Intelligence enthusiastic.
 
 🚀 In the future, I hope to work on projects that have a positive impact on society and help solve real-world problems. I believe that technology can be a force for good, and I'm excited to be a part of that movement.
 
